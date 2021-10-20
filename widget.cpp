@@ -1,6 +1,5 @@
 #include "widget.h"
 #include "gallery.h"
-#include "player.h"
 #include <QDebug>
 
 Widget::Widget(QWidget *parent)
